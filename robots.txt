@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://kudustoto.futurefriendlyweb.com/sitemap.xml
